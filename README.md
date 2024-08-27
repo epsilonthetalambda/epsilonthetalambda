@@ -1,32 +1,28 @@
-### Hi there 👋
+### Yello, its me
 
 ---
 
-## I go to high school and am interested in swen/cybersec things.
+## Currently a high school student, interested in cyber security, coding, and game design
 
 ---
 
-- 🔭 I’m currently working on school projects, but I might make cool stuff once I learn more GUI
-- 🌱 I’m currently learning Java, but have some knowledge in HTML/CSS/JS
-- 🤔 I’m wanting to create mods and helper applications for video games I play
-- 👯 I’m open to collaboration on projects
-- Outside of programming and STEM, I play piano, game, and have 2 cats
+- Most of my repos right now are probably school related, but I sometimes occasionally do other stuff
+- Learning Java because unis teach it, picking up some Python from Godot/CTFs, already know HTML/CSS/JS fairly well
+- Expect ethelegend/y13g next year, plus maybe some random stuff (e.g. Rain World / Lethal Company / Terraria mods)
+- If you want more people to work on a Java project, I could be down to have a look at your repo
+- Outside of programming and STEM, I play piano, game, and have 2 cats. Also do cybersecurity competitions (see you at DUCTF 2025)
 
-### 🛠️ Languages and Tools I use/know:
+### 🛠️ Stuff I know
   
+<img align="left" alt="Github" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Godot" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" style="padding-right:10px;" />
+<img align="left" alt="IntelliJ" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Javascript" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="IntelliJ" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Java" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="Github" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" style="padding-right:10px;" />
 <br>
 <br>
-
-
-### :fire: My Stats :
-
-i dont use github that much yet
 
 ### README template from :
 https://github.com/Thechiefpotatopeeler/Thechiefpotatopeeler/tree/main
