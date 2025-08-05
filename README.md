@@ -7,7 +7,7 @@
 ---
 
 - Most of my repos right now are probably school related, but I sometimes occasionally do other stuff maybe
-- Learning Java because unis teach it, picking up some Python from Godot/CTFs, already know HTML/CSS/JS fairly well
+- Learning Java and GDScript (python), have learnt HTML/CSS/JS previously
 - If you want more people to work on a Java project, I could be down to have a look at your repo
 
 ### 🛠️ Stuff I know
