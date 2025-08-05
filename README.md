@@ -6,11 +6,9 @@
 
 ---
 
-- Most of my repos right now are probably school related, but I sometimes occasionally do other stuff
+- Most of my repos right now are probably school related, but I sometimes occasionally do other stuff maybe
 - Learning Java because unis teach it, picking up some Python from Godot/CTFs, already know HTML/CSS/JS fairly well
-- Expect ethelegend/y13g next year, plus maybe some random stuff (e.g. Rain World / Lethal Company / Terraria mods)
 - If you want more people to work on a Java project, I could be down to have a look at your repo
-- Outside of programming and STEM, I play piano, game, and have 2 cats. Also do cybersecurity competitions (see you at DUCTF 2025)
 
 ### 🛠️ Stuff I know
   
@@ -24,5 +22,5 @@
 <br>
 <br>
 
-### README template from :
+### README template from:
 https://github.com/Thechiefpotatopeeler/Thechiefpotatopeeler/tree/main
